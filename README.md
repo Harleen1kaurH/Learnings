@@ -1,7 +1,7 @@
 # Learnings
 ## Brief on my SDC Learnings
-This training was centered around Frappe Framework. It is Low code, open source, web framework in Python and Javascript which eases creation of apps and webpages.<br> <br>
-*So, My learning of SDC Training was creation of app and websites using Frappe Framework.* <br><br>
+This training was centered around Frappe Framework. It is a low code, open source, web framework in Python and Javascript which eases creation of apps and webpages.<br> <br>
+*So, My learning of SDC Training were creation of app and websites using Frappe Framework.* <br><br>
 This was what I had thought, prior to joining this training but I am happy to confirm that this is partially true. My learnings extend far beyond this. There are lot of soft as well as core skills I have acquired from 4 week SDC Training. <br><br>
 First and Foremost, I learned basics of MS Excel operations.<br> Secondly, I learned basics of markdown.<br> Thirdly, I dicovered the platform of Github and learnt basics of it. I learned to create repositories, publish pages and create and merge pull requests.
 <br>Then I leaned about E-mail guidelines and top posting.
